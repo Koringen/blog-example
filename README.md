@@ -1,4 +1,4 @@
-this is my second test project
+This is my second test project
 Prototype:
 ![Image alt](https://github.com/Koringen/blog-example/blob/master/Maket.png)
 My result:
