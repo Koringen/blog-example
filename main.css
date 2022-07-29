@@ -1,0 +1,133 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Gill Sans, sans-serif;
+}
+
+.main-container {
+    display: flex;
+    width: 1320px;
+    margin: auto;
+}
+
+.container {
+    margin-top: 35px;
+    display: flex;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 25px;
+}
+
+.logo {
+    width: 30%;
+    margin-left: 40px;
+    margin-top: -5px;
+    display: block;
+}
+
+.c0 {
+    width: 10%;
+}
+
+.c1 {
+    width: 10%;
+}
+
+.c2 {
+    width: 10%;
+}
+
+.c3 {
+    width: 60%;
+}
+
+div {
+    color: aliceblue;
+}
+
+.description-container {
+    margin-top: 40px;
+    font-size: 55px;
+    width: min-content;
+}
+
+.photo-and-description {
+    display: flex;
+    
+}
+
+.photo {
+    width: 70px;
+    height: 70px;
+    border-radius: 100px;
+    margin-top: 5px;
+}
+
+.description {
+    font-size: 25px;
+    height: max-content;
+    margin: auto;
+    margin-left: 20px;
+}
+
+.centr-photo {
+    width: 800px;
+    border-radius: 15px;
+}
+
+.photo-by {
+    font-size: 15px;
+}
+
+.card-container {
+    margin-left: 80px;
+}
+
+.card {
+    background-color: rgb(42, 42, 50);
+    width: 440px;
+    height: 420px;
+    font-size: 27px;
+    padding-top: 25px;
+    border-radius: 20px;
+}   
+
+.photo-card {
+    width: 230px;
+    height: 230px;
+    border-radius: 120px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+.links {
+    display: flex;
+    width: 150px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+}
+
+.link {
+    width: 40px;
+    height: 40px;
+}
+
+.card-name {
+    display: block;
+    width: max-content;
+    font-weight: 600;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+}
+
+.card-profession {
+    display: block;
+    width: max-content;
+    font-weight: 600;
+    color: rgb(124, 128, 217);
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 15px;
+}
